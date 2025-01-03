@@ -170,8 +170,8 @@ Material:
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
-    - _DissolveAmount: 0.7
-    - _DissolvePower: 1.5
+    - _DissolveAmount: 0.8
+    - _DissolvePower: 2
     - _DistortionAmount: 0.3
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
@@ -279,7 +279,7 @@ Material:
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
     - _VoronoiSpeed: {r: 0, g: 1, b: 0, a: 0}
-    - _WaveSize: {r: 1, g: 1, b: 0, a: 0}
+    - _WaveSize: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _WaveSpeed: {r: 0, g: 0.4, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

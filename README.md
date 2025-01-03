@@ -8,6 +8,8 @@ I'm using a gameplay recording of the game Monster Hunter Rise as reference.
 I will try to identify what type of shaders are being used and create them eventhough they won't be as "realistic" as in the recording.
 There's a lot of ways to create all the effects like shader code, shadergraph, particle systems and VFX graph. I will be trying to create all the effects using only shader graph in URP.
 
+This is the reference video:
+
 ![MonsterHunterWaterfall](/MonsterHunterWaterfall.mp4)
 
 I started by trying to identify the different present shaders:
